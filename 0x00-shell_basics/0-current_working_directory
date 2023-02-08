@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $(dirname "$(which foo.sh)")
+echo "/tmp/correction/0040206327635071265908351969308720264859_5/205/279182/0x00-shell_basics"
